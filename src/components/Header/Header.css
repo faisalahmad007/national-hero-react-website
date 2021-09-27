@@ -1,0 +1,30 @@
+.header{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+
+}
+.header nav{
+    background-color: black;
+    line-height: 40px;
+    padding: 10px;
+}
+.header nav a{
+    text-decoration: none;
+    color: white;
+    margin-right:20px;
+    padding:5px;
+    font-size: 20px;
+}
+.header nav a:hover{
+    background-color:lightgray;
+}
+.logo{
+    height: 70px;
+    border-radius: 50%;
+}
+.span-one, .span-three{
+    color: green;
+}
+.span-two{
+    color: red;
+}

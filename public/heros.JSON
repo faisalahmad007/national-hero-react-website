@@ -1,0 +1,110 @@
+[
+    {
+        "img": "https://i.ibb.co/fk8t8rT/munshi-abdur-rouf.png",
+        "id":"19710001",
+        "name":"Munshi Abdur Rouf",
+        "description":"Bir Sreshtho",
+        "rank":"Lance Naik",
+        "salary":10000,
+        "died":"April 18,1971"
+    },
+    {
+        "img":"https://i.ibb.co/gWNp3fx/mohiuddin-jahangir.png",
+        "id":"19710002",
+        "name":"Mohiuddin Jahangir",
+        "description":"Bir Sreshtho",
+        "rank":"Captain",
+        "salary":30000,
+        "died":"December 9,1971"
+    },
+    {   
+        "img":"https://i.ibb.co/4FMxdYc/nur-mohammad-sheikh.png",
+        "id":"19710003",
+        "name":"Nur Mohammad Sheikh",
+        "description":"Bir Sreshtho",
+        "rank":"Lance Naik",
+        "salary":50000,
+        "died":"September 5,1971"
+    },
+    {
+        "img":"https://i.ibb.co/MD1RxB9/matiur-rahman.png",
+        "id":"19710004",
+        "name":"Matiur Rahman",
+        "description":"Bir Sreshtho",
+        "rank":"Flight Lieutenant",
+        "salary":20000,
+        "died":"Auguest 20,1971"
+    },
+    {   
+        "img":"https://i.ibb.co/rkDDwdj/mohammad-ruhul-amin.png",
+        "id":"19710005",
+        "name":"Mohammad Ruhul Amin",
+        "description":"Bir Sreshtho",
+        "rank":"Engine Room Artificer",
+        "salary":50000,
+        "died":"December 10,1971"
+    },
+    {
+        "img":"https://i.ibb.co/rvN0ZYW/mostafa-kamal.png",
+        "id":"19710006",
+        "name":"Muhammad Mustafa Kamal",
+        "description":"Bir Sreshtho",
+        "rank":"Sepoy",
+        "salary":60000,
+        "died":"April 18,1971"
+    },
+    {   
+        "img":"https://i.ibb.co/8sbzH8y/hamidur-rahman.png",
+        "id":"19710007",
+        "name":"Hamidur Rahman",
+        "description":"Bir Sreshtho",
+        "rank":"Sepoy",
+        "salary":10000,
+        "died":"October 8,1971"
+    },
+    {   
+        "img":"https://i.ibb.co/hRMCgc1/fazle-rabee.jpg",
+        "id":"19710008",
+        "name":"Mohammed Fazle Rabbee",
+        "description":"Martyr Intellectual",
+        "rank":"Physician",
+        "salary":15000,
+        "died":"December 15, 1971"
+    },
+    {   
+        "img":"https://i.ibb.co/WkSmBp1/selina-parvin.jpg",
+        "id":"19710009",
+        "name":"Selina Parvin",
+        "description":"Martyr Intellectual",
+        "rank":"Journalist",
+        "salary":25000,
+        "died":"December 14, 1971"
+    },
+    {   
+        "img":"https://i.ibb.co/qm0SXbk/kaisar.jpg",
+        "id":"19710010",
+        "name":"Shahidullah Kaiser",
+        "description":"Martyr Intellectual",
+        "rank":"Journalist and Novelist",
+        "salary":30000,
+        "died":"December 14, 1971"
+    },
+    {   
+        "img":"https://i.ibb.co/N78TpG0/Zahir-Raihan.jpg",
+        "id":"19710011",
+        "name":"Zahir Raihan",
+        "description":"Martyr Intellectual",
+        "rank":"Novelist, Writer and Filmmaker",
+        "salary":45000,
+        "died":"January 30, 1972"
+    },
+    {   
+        "img":"https://i.ibb.co/tJmDcX2/altaf-mahmud.jpg",
+        "id":"19710012",
+        "name":"Altaf Mahmud",
+        "description":"Martyr Intellectual",
+        "rank":"Musician, Cultural activist",
+        "salary":26000,
+        "died":"September 1971"
+    }
+]
